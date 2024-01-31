@@ -11,10 +11,10 @@ This project is a basic ToDo list application created using React.js and Tailwin
    Clone the repository:
 
    ```bash
-   git clone https://github.com//react-todo.git
+   git clone https://github.com/harshabavigadda/REACT-ToDo.git
 
-   cd react-todo
-   npm install
+   cd REACT-ToDo
+   npm install or npm i
    npm start
 
 ## Usage and Features
